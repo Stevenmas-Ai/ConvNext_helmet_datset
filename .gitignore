@@ -2,3 +2,4 @@
 helmet_dataset/images
 helmet_detection_convnext.pth
 helmet_detection_model.pt
+best_model.pth
