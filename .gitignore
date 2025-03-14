@@ -5,3 +5,4 @@ helmet_detection_model.pt
 best_model.pth
 *.pt
 *.pth
+__pycache__
